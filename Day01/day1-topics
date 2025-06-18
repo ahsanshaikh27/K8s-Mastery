@@ -1,0 +1,33 @@
+📚 Table of Contents
+
+What is Kubernetes?
+
+Kubernetes Architecture
+
+Control Plane
+
+Worker Nodes
+
+Add-ons
+
+Core Components Explained
+
+Kube-API Server
+ETCD
+Controllers
+Scheduler
+Kubelet
+Kube-Proxy
+
+
+Standard Interfaces
+
+Watch API & Webhooks
+Key Directories
+Communication in K8s
+Get Hands-On!
+Further Reading
+Contributing
+License
+
+
