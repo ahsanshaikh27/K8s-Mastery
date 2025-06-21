@@ -56,8 +56,8 @@ Kubernetes helps simplify and automate complex container operations in **DevOps 
 
 ---
 
-### 🚀 This is **Day 1** of the `12-Day Kubernetes Challenge`.  
-Stay tuned as we dive into **Kubernetes Architecture** tomorrow! 🔧
+### 🚀 **Day 1* to *12-Day Kubernetes Challenge`.  
+Learning tuned as depp dive into **Kubernetes** ! 🔧
 
 ---
 
