@@ -1,7 +1,7 @@
 # 🌐 Kubernetes: The Container Orchestration Powerhouse
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1155976/screenshots/13787442/media/6ba1de91de92e8cd0a78d3794d12b5c4.png" width="600"/>
+  <img src="assets/kubernetes-banner.png" width="600" alt="Kubernetes Banner"/>
 </p>
 
 ---
@@ -42,7 +42,11 @@ Kubernetes helps simplify and automate complex container operations in **DevOps 
 
 ## 📦 Where Kubernetes Fits in Modern DevOps
 
-![Kubernetes Ecosystem](https://d33wubrfki0l68.cloudfront.net/0cf7d79f538a9c3ffb7c8a8c705e183a91bbd03e/cb2cd/images/kubernetes-overview.png)
+![Kubernetes Ecosystem]
+<p align="center">
+  <img src="assets/kubernetes-overview.png" alt="Kubernetes Ecosystem" width="800"/>
+</p>
+
 
 ---
 
