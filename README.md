@@ -39,7 +39,11 @@ Before Kubernetes, managing containers (like Docker) across multiple servers was
 
 ## 🖼️ Kubernetes Architecture (Visual Overview)
 
-![Kubernetes Architecture](https://d33wubrfki0l68.cloudfront.net/52f3a1e571d946a4c382d7cfa282e0cfb7584a0f/3ef1c/images/docs/components-of-kubernetes.svg)
+## 🧱 Kubernetes Architecture
+
+![Kubernetes Architecture Diagram](https://kubernetes.io/images/docs/components-of-kubernetes.svg)
+
+
 
 ---
 
