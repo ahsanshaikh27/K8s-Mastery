@@ -4,7 +4,7 @@
 
 ## 🎯 Objective
 
-Secure your Kubernetes-based application with **HTTPS** using **Cert-Manager** for automated TLS certificate management, the **Gateway API** for modern traffic routing, and **Namespaces** for logical isolation. This guide leverages **Let's Encrypt** for free, auto-renewing certificates to ensure secure communication.
+Secure Kubernetes-based application with **HTTPS** using **Cert-Manager** for automated TLS certificate management, the **Gateway API** for modern traffic routing, and **Namespaces** for logical isolation. This guide leverages **Let's Encrypt** for free, auto-renewing certificates to ensure secure communication.
 
 ---
 
@@ -255,13 +255,13 @@ Day5-SSL-Cert/
 
 ## 📌 Summary
 
-By completing this setup, you have:
+By completing this setup:
 - Secured your application with **HTTPS** using TLS certificates.
 - Automated certificate issuance and renewal with **Cert-Manager**.
 - Configured modern traffic routing with the **Gateway API**.
 - Organized resources using **Namespaces** for isolation.
 
-Your application is now production-ready with industry-standard encryption and minimal maintenance overhead.
+ Application is now production-ready with industry-standard encryption and minimal maintenance overhead.
 
 ---
 ## 🔗 Resources
@@ -273,4 +273,4 @@ Your application is now production-ready with industry-standard encryption and m
 
 ---
 
-This `README.md` is now professional, well-structured, and ready for use in a project repository. It provides clear instructions, best practices, and resources while maintaining the technical accuracy of the original content. Let me know if you need further refinements or additional sections!
+
